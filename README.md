@@ -1,6 +1,6 @@
 Author: cr.ooi@edgecomp.my
 
-# full-text-search
+### Full-text Search Demo
 
 > site is still in progress
 
@@ -9,6 +9,8 @@ Below is the example of full-text search, watch the demo at here, [full-text sea
 ![Screenshot from 2023-02-24 12-54-09](https://user-images.githubusercontent.com/107167692/221095305-5e5f0dcb-2032-47cc-a10d-61ad19820af1.png)
 
 Data is indexed in JSON and images/documents will be stored in cost-effective cloud storage. Users could retrieve the images/documents through secured APIs. The search performance is extremely fast and having unmatched performance than common database query! 
+
+### Case Studies
 
 - Some examples of how full-text search has been used specifically for Automated Optical Inspection (AOI) use cases in the manufacturing industry:
 
